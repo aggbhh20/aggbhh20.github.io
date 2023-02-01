@@ -1,3 +1,1 @@
-@echo off
-echo fuck you
-pause
+echo sex & pause
