@@ -1,1 +1,1 @@
-echo sex & pause & dim 
+echo sex & pause & echo 
