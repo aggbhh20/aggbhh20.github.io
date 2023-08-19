@@ -1,1 +1,0 @@
-explorer & echo sex & echo 
